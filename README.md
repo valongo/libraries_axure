@@ -9,4 +9,6 @@ Notes:
   <li>The archives are in vesion of Axure  7 or more.</li>
   </ul>
 </p>
-<p>Thanks! <strong>Michele Valongo</strong></p>
+<p>Thanks!
+  </br><strong>Michele Valongo</strong>
+</p>
